@@ -14,5 +14,8 @@ Open **Command Prompt** and run the following command:
 start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium"
 
 
-###✅ Step 2: Run the Python Script
-## In a new Command Prompt window, navigate to the project folder and run:
+✅ Step 2: Run the Python Script
+In a new Command Prompt window, navigate to the project folder and run:
+
+python youtube_ad_skipper.py
+
