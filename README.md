@@ -11,7 +11,7 @@ This Python script automatically skips **YouTube ads** by detecting and clicking
 Open **Command Prompt** and run the following command:
 
 ```bash
-start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium"
+start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium" \```
 
 ###✅ Step 2: Run the Python Script
 ## In a new Command Prompt window, navigate to the project folder and run:
